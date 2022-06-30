@@ -1,0 +1,10 @@
+@media (min-width: 768px){
+    .email-input{
+        width: 50%;
+    }
+}
+
+
+.fa-solid{
+    font-size: 3rem;
+}
