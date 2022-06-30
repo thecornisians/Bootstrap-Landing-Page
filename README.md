@@ -7,13 +7,12 @@
 Used Bootstrap to build a test landing page.
 
 ## Optimizations
-*(optional)*
 
 Improve the UI feature.
 
 ## Lessons Learned:
 
-LEarnt how to use Bootstrap to build layouts.
+Learnt how to use Bootstrap to build layouts.
 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
