@@ -4,11 +4,11 @@
 
 **Tech used:** HTML, Bootstrap
 
-Used Bootstrap to build a test landing page.
+Used Bootstrap to build a test landing page. 
 
 ## Optimizations
 
-Improve the UI feature.
+Improve the UI feature. And add javascript to build out the responsive features
 
 ## Lessons Learned:
 
